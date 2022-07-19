@@ -1,0 +1,1 @@
+./jazzer --cp=jni_print.jar --target_class="PrintStreamTest" --coverage_report="report.log"
